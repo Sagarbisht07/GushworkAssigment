@@ -64,34 +64,32 @@ This is a responsive website for Mangalam HDPE Pipes, showcasing premium HDPE pi
 
 ### Desktop View
 
-![Desktop View] <img width="1430" height="1113" alt="image" src="https://github.com/user-attachments/assets/ee0b5b4e-3202-4e8c-b2a0-0d8bf4b63ac3" />
+[Desktop View] 
+<img width="1430" height="1113" alt="image" src="https://github.com/user-attachments/assets/ee0b5b4e-3202-4e8c-b2a0-0d8bf4b63ac3" />
+<img width="1478" height="1155" alt="image" src="https://github.com/user-attachments/assets/ec99603c-da78-4ac6-ac9b-66dca6f9f23e" />
+
 
 _Full desktop layout showing hero section, specs, and portfolio._
 
 ### Mobile View
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View]
+<img width="441" height="1111" alt="image" src="https://github.com/user-attachments/assets/7dd1f82e-cfaf-4bb5-bf8c-65b7e49263a8" />
+
 _Responsive mobile layout with stacked elements and touch-friendly navigation._
 
 ### Tablet View
 
-![Tablet View](screenshots/tablet-view.png)
+![Tablet View]
+<img width="763" height="1013" alt="image" src="https://github.com/user-attachments/assets/4d842b16-1f2a-4d61-a3a0-8c8d7780a927" />
+<img width="762" height="698" alt="image" src="https://github.com/user-attachments/assets/1369bc1c-516d-4185-ba61-29168e66071e" />
+
 _Tablet layout adapting grid and spacing for medium screens._
-
-### Hero Section
-
-![Hero Section](screenshots/hero-section.png)
-_Interactive product gallery with pricing and call-to-action buttons._
 
 ### Technical Specifications
 
-![Technical Specs](screenshots/tech-specs.png)
-_Detailed specifications table with key product information._
-
-### Manufacturing Process
-
-![Manufacturing Process](screenshots/manufacturing-process.png)
-_Step-by-step process visualization with tabbed interface._
+![Technical Specs]
+<img width="1400" height="1057" alt="image" src="https://github.com/user-attachments/assets/d6109d8f-0d8e-49ae-a5c5-d3294db7fdcf" />
 
 ## Browser Support
 

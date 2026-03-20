@@ -72,23 +72,14 @@ This is a responsive website for Mangalam HDPE Pipes, showcasing premium HDPE pi
 _Full desktop layout showing hero section, specs, and portfolio._
 
 ### Mobile View
-
-![Mobile View]
 <img width="441" height="1111" alt="image" src="https://github.com/user-attachments/assets/7dd1f82e-cfaf-4bb5-bf8c-65b7e49263a8" />
 
-_Responsive mobile layout with stacked elements and touch-friendly navigation._
-
 ### Tablet View
-
-![Tablet View]
 <img width="763" height="1013" alt="image" src="https://github.com/user-attachments/assets/4d842b16-1f2a-4d61-a3a0-8c8d7780a927" />
+
 <img width="762" height="698" alt="image" src="https://github.com/user-attachments/assets/1369bc1c-516d-4185-ba61-29168e66071e" />
 
-_Tablet layout adapting grid and spacing for medium screens._
-
 ### Technical Specifications
-
-![Technical Specs]
 <img width="1400" height="1057" alt="image" src="https://github.com/user-attachments/assets/d6109d8f-0d8e-49ae-a5c5-d3294db7fdcf" />
 
 ## Browser Support

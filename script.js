@@ -273,4 +273,5 @@ document.addEventListener("DOMContentLoaded", () => {
     alert("Thank you! We will call you back shortly.");
     callbackForm.reset();
   });
+  
 });

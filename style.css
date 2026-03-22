@@ -1324,8 +1324,8 @@ a {
 
 .footer-cta {
     border-top: 1px solid rgba(0, 0, 0, 0.08);
-    background: #f8f9fc;
-    padding-bottom: 80px;
+    padding-bottom: '80px' !important;
+    display: block;
 }
 
 .cta-grid {
